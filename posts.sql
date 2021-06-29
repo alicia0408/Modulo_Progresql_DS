@@ -118,6 +118,7 @@ VALUES (7,current_date ,'14:00:00.00', 'Margarita Java');
 INSERT INTO comentarios(post_id,fecha,hora_de_creacion,contenido ) 
 VALUES (7,current_date ,'14:00:00.00', 'Margarita Java');
 ​
+·
 INSERT INTO comentarios(post_id,fecha,hora_de_creacion,contenido ) 
 VALUES (7,current_date ,'14:00:00.00', 'Margarita Java');
 SELECT * FROM comentarios;
