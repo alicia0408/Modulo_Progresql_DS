@@ -23,7 +23,7 @@ SELECT  * FROM peliculas;
 \copy reparto FROM '/home/alicia/Documentos/DESAFIO_LATAM/progresql/progresql_clase2_10062021/archivos/reparto.csv' csv header;
 
 SELECT  * FROM reparto;
-
+#
 -- Obtener el ID de la película “Titanic”.
 SELECT id FROM peliculas WHERE pelicula = 'Titanic';
 
