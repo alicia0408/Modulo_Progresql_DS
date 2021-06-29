@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/alicia0408/Modulo_Progresql_DS
+	fetch = +refs/*:refs/*
+	mirror = true
